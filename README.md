@@ -8,3 +8,4 @@ I work at the intersection of research and engineering to solve impactful indust
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/derekchia?label=Follow&style=social)](https://twitter.com/derekchia)
 [![last learned](https://img.shields.io/github/last-commit/derekchia/learning?label=last%20learned&style=flat-square)](https://github.com/derekchia/learning)
+[![HitCount](http://hits.dwyl.com/derekchia/learning.svg)](http://hits.dwyl.com/derekchia/learning)
