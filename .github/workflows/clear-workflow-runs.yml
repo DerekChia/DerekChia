@@ -1,6 +1,8 @@
 name: Clean Workflow Logs
 
 on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
     inputs:
       days_old:
