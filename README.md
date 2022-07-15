@@ -1,4 +1,4 @@
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=derekchia&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=derekchia&show_icons=true">
 
 ### Hi there I'm Derek Chia. 👋
 
@@ -7,11 +7,10 @@
 [![Hackerrank URL](https://img.shields.io/twitter/url?color=green&label=HackerRank&logo=hackerrank&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.hackerrank.com%2Fderek43)](https://www.hackerrank.com/derek43)
 [![MAIL](https://img.shields.io/static/v1?label=MAIL&message=%20&color=%23F91310&logo=gmail&style=flat-square&logoColor=white)](mailto:derek@derekchia.com)
 
-
 👨‍🎓 **About:** Machine Learning Software Developer.
 👨‍💻 **Languages:** Python, Java, JavaScript, HTML, CSS.
-🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source.   -->
+🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source. -->
 
-<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
+<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
