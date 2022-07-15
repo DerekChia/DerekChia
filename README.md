@@ -8,7 +8,9 @@
 [![MAIL](https://img.shields.io/static/v1?label=MAIL&message=%20&color=%23F91310&logo=gmail&style=flat-square&logoColor=white)](mailto:derek@derekchia.com)
 
 👨‍🎓 **About:** Machine Learning Software Developer.
+
 👨‍💻 **Languages:** Python, Java, JavaScript, HTML, CSS.
+
 🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source.
 
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
@@ -16,6 +18,7 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [The Guide to Docker ARG, ENV and .env](https://derekchia.com/the-guide-to-docker-arg-env-and-env/)
 - [50 Things I Learned from The Amazon Management System](https://derekchia.com/50-things-i-learned-from-the-amazon-management-system/)
 - [Web Scalability for Startup Engineers — Book Review and Takeaways](https://derekchia.com/web-scalability-for-startup-engineers-book-review-and-takeaways/)
