@@ -16,6 +16,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Guide to Docker ARG, ENV and .env](https://derekchia.com/the-guide-to-docker-arg-env-and-env/)
+- [50 Things I Learned from The Amazon Management System](https://derekchia.com/50-things-i-learned-from-the-amazon-management-system/)
+- [Web Scalability for Startup Engineers — Book Review and Takeaways](https://derekchia.com/web-scalability-for-startup-engineers-book-review-and-takeaways/)
+- [Common Problems When Reproducing A Machine Learning Paper](https://derekchia.com/common-problems-when-reproducing-a-machine-learning-paper/)
+- [Machine Learning Glossy in Chinese](https://derekchia.com/machine-learning-glossy-in-chinese/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Metrics](/github-metrics.svg) -->
