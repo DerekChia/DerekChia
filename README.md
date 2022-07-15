@@ -9,8 +9,8 @@
 
 👨‍🎓 **About:** Machine Learning Software Developer.
 👨‍💻 **Languages:** Python, Java, JavaScript, HTML, CSS.
-🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source. -->
+🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source.
 
-<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates
+<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
 
 <!-- ![Metrics](/github-metrics.svg) -->
