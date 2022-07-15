@@ -11,11 +11,11 @@
 👨‍💻 **Languages:** Python, Java, JavaScript, HTML, CSS.
 🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source.
 
-# Blog posts
+<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
+
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
 
 <!-- ![Metrics](/github-metrics.svg) -->
